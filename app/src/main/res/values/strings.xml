@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="coin">
+        <item>新台幣</item>
+        <item>歐元</item>
+        <item>日圓</item>
+        <item>英鎊</item>
+        <item>人民幣</item>
+        <item>港幣</item>
+        <item>韓元</item>
+        <item>美元</item>
+    </string-array>
+    <string name="money">My Application</string>
+    <string-array name="NT">
+        <item>1</item>
+        <item>0.302</item>
+        <item>4.249</item>
+        <item>0.026</item>
+        <item>0.223</item>
+        <item>0.250</item>
+        <item>38.535</item>
+        <item>0.032</item>
+    </string-array>
+    <string name="money2">My Application</string>
+    <string-array name="EUR">
+        <item>33.090</item>
+        <item>1</item>
+        <item>140.628</item>
+        <item>0.866</item>
+        <item>7.409</item>
+        <item>8.272</item>
+        <item>1,275.144</item>
+        <item>1.066</item>
+    </string-array>
+    <string name="money3">My Application</string>
+    <string-array name="JPY">
+        <item>0.235</item>
+        <item>0.007</item>
+        <item>1</item>
+        <item>0.006</item>
+        <item>0.052</item>
+        <item>0.058</item>
+        <item>9.060</item>
+        <item>0.007</item>
+    </string-array>
+    <string name="money4">My Application</string>
+    <string-array name="GPB">
+        <item>38.210</item>
+        <item>1.154</item>
+        <item>162.388</item>
+        <item>1</item>
+        <item>8.565</item>
+        <item>9.572</item>
+        <item>1,473.441</item>
+        <item>1.233</item>
+    </string-array>
+    <string name="money5">My Application</string>
+    <string-array name="CNY">
+        <item>4.469</item>
+        <item>0.134</item>
+        <item>19.057</item>
+        <item>0.116</item>
+        <item>1</item>
+        <item>1.117</item>
+        <item>172.016</item>
+        <item>0.144</item>
+    </string-array>
+    <string name="money6">My Application</string>
+    <string-array name="HKD">
+        <item>4.000</item>
+        <item>0.120</item>
+        <item>17.053</item>
+        <item>0.104</item>
+        <item>0.895</item>
+        <item>1</item>
+        <item>153.926</item>
+        <item>0.128</item>
+    </string-array>
+    <string name="money7">My Application</string>
+    <string-array name="KRW">
+        <item>0.025</item>
+        <item>0.0007</item>
+        <item>0.110</item>
+        <item>0.0006</item>
+        <item>0.0058</item>
+        <item>0.0064</item>
+        <item>1</item>
+        <item>0.0008</item>
+    </string-array>
+    <string name="money8">My Application</string>
+    <string-array name="USD">
+        <item>31.030</item>
+        <item>0.936</item>
+        <item>132.324</item>
+        <item>0.810</item>
+        <item>6.943</item>
+        <item>7.759</item>
+        <item>1,194.380</item>
+        <item>1</item>
+    </string-array>
+</resources>
